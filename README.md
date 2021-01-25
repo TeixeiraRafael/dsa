@@ -8,3 +8,4 @@ My implementation of some important Data Structures and Algorithms.
  
 ### Criptography :closed_lock_with_key:
   - [Feistel Cypher](https://github.com/TeixeiraRafael/dsa/tree/master/Feistel%20Cypher)
+  - [Data Encryption Standard](https://github.com/TeixeiraRafael/dsa/tree/master/Data%20Encryption%20Standard)
